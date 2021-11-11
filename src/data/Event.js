@@ -6,3 +6,4 @@ export class Event {
     this.name = name;
   }
 }
+
